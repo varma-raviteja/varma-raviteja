@@ -1,6 +1,4 @@
 <h2 align="left">Hi 👋! I am Raviteja Varma Penmetsa</h2>
-###
-###
 
 <p align="left">A devoted architect of code, I find joy in unraveling the intricate threads of technology. With a heart set on Full Stack Development, DevOps, ML and LLMs.</p>
 
